@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "brand": "Куртка Gucci 100 из технического джерси",
+      "model": "gucci",
+      "description": "Техническое джерси синего и красного цветов с серебристой вставкой Принт в виде надписи «Music is Mine, Gucci Seats Reclined» — The R, E. Barrier and W. Griffin © Sony Music Publishing Нашивка Gucci 100 Застежка-молния спереди Карманы впереди Сделано в Италии Рост модели — 185 см. Модель на этом изображении представлена в размере small Ткань: 55% Полиэстер, 45% Хлопок. Детали: 80% Полиамид, 20% Эластан. Подкладка: 100% Полиэстер. Аппликация: 100% Полиэстер.",
+      "price": 560,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1629963917/676482_XJDXJ_4714_001_100_0000_Light--Gucci100.jpg",
+      "id": 1,
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1629963918/676482_XJDXJ_4714_004_100_0000_Light--Gucci100.jpg"
+    },
+    {
+      "brand": "gucci",
+      "model": "Свитшот с принтом «You Got Good Taste»",
+      "description": "Легкое хлопковое джерси черного цвета с эффектом состаренности Принт в виде надписи «This One's Dedicated To All You Gucci Bag Gucci Carriers Out There It's Called You Got Good Taste» — You Got Good Taste By I. Rorschach and L. Interior © Sony Music Publishing С капюшоном Сделано в Италии Рост модели — 187 см. Модель на этом изображении представлена в размере medium Ткань: 100% Хлопок.",
+      "price": 700,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1632935710/681220_XJD1D_1152_001_100_0000_Light--You-Got-Good-Taste.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1632935710/681220_XJD1D_1152_002_100_0000_Light--You-Got-Good-Taste.jpg",
+      "id": 2
+    },
+    {
+      "brand": "GUCCI",
+      "model": "Куртка Gucci 100 из неопрена с символом GG",
+      "description": "Легкий неопрен jumbo GG бежевого цвета и цвета черного дерева Принт в виде надписи «Music is Mine Gucci Seats Reclined» — The R By E. Barrier and W. Griffin © Sony Music Publishing Принт в виде числа «100» сзади Окантовка красного цвета и отделка трикотажным полотном-резинкой С капюшоном Застежка-молния Сделано в Италии Рост модели — 185 см. Модель на этом изображении представлена в размере large Ткань: 85% Полиэстер, 15% Эластан. Отделка: 93% Полиэстер, 5% Полиамид, 2% Эластан. Детали: 80% Полиамид, 20% Эластан.",
+      "price": 650,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1629300609/676466_XJDXH_2270_001_100_0000_Light--Gucci100-GG.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1629300609/676466_XJDXH_2270_002_100_0000_Light--Gucci100-GG.jpg",
+      "content":"",
+      "id": 3
+    },
+    {
+      "brand": "GUCCI",
+      "model": "Свитшот The North Face x Gucci",
+      "description": "Плотное валяное хлопковое джерси с принтом с изображением пейзажа The North Face x Gucci Принт с логотипом The North Face x Gucci и полосой Web The North Face x Gucci Несъемный капюшон с кулиской Сделано в Италии Модель на этом изображении представлена в размере small Ткань: 100% Хлопок.",
+      "price": 570,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1638292585/672474_XJDS7_3466_001_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1638292590/672474_XJDS7_3466_002_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "id": 4
+    },
+    {
+      "brand": "GUCCI",
+      "model": "Куртка на молнии The North Face x Gucci",
+      "description": "Хлопковое джерси синего цвета, красный нейлон на капюшоне и локтях Принт с логотипом The North Face x Gucci и полосой Web спереди и сзади The North Face x Gucci Капюшон с внутренними завязками Карманы на молнии спереди Застежка-молния Сделано в Италии Ткань: 100% Хлопок. Ткань: 100% Полиамид. Подкладка: 100% Полиэстер.",
+      "price": 540,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1633993217/671462_XJDRN_4453_002_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1633993218/671462_XJDRN_4453_008_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "id": 5
+    },
+    {
+      "brand": "gucci",
+      "model": "Куртка The North Face x Gucci",
+      "description": "Техническое джерси с цветочным принтом и буквами GG The North Face x Gucci Принт с логотипом The North Face x Gucci сзади The North Face x Gucci Полоски в виде ленты Web на рукавах Застежка-молния спереди Карманы на молнии спереди Сделано в Италии Ткань: 55% Полиэстер, 45% Хлопок. Отделка: 93% Полиэстер, 5% Полиамид, 2% Эластан. Детали: 100% Полиамид. Подкладка: 100% Полиэстер. Вышивка: 100% Полиэстер.",
+      "price": 760,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1638552603/671448_XJDQ7_1099_001_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1638552606/671448_XJDQ7_1099_002_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "id": 6
+    },
+    {
+      "brand": "gucci",
+      "model": "Куртка The North Face x Gucci",
+      "description": "Техническое джерси с принтом в виде леса The North Face x Gucci Полоски в виде ленты Web на рукавах The North Face x Gucci Застежка-молния спереди Карманы на молнии спереди Сделано в Италии Ткань: 55% Полиэстер, 45% Хлопок. Отделка: 93% Полиэстер, 5% Полиамид, 2% Эластан. Детали: 100% Полиамид. Подкладка: 100% Полиэстер. Вышивка: 100% Полиэстер.",
+      "price": 450,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1633022110/671444_XJDQ8_3229_002_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1633022110/671444_XJDQ8_3229_008_100_0000_Light--The-North-Face-x-Gucci.jpg",
+      "id": 7
+    },
+    {
+      "brand": "gucci",
+      "model": "Куртка-бомбер из винтажного органического денима",
+      "description": "Куртка-бомбер из экологичного органического денима GG с винтажным эффектом дополнена лейблом с надписью «Gucci quelle qu’en soit la saison». Фраза на французском языке переводится как «Gucci вне сезона» и передает идею о том, что одежду Gucci можно носить в любое время года. Коллекция Epilogue призывает оставить позади старые правила моды и отражает идею о том, что модели должны быть вне времени, а не на один сезон.",
+      "price": 900,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1603993504/644963_XDBIP_4266_001_100_0000_Light-.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1603993504/644963_XDBIP_4266_002_100_0000_Light-.jpg",
+      "id": 8
+    },
+    {
+      "brand": "gucci",
+      "model": "Куртка на молнии Gucci Off The Grid",
+      "description": "Линия аксессуаров и предметов одежды, представленная в рамках коллекции Pre-Fall 2020, создана из переработанных материалов и соответствует приверженности Дома устойчивому развитию. Gucci Off The Grid — первая коллекция из линии Gucci Circular Lines, созданной в соответствии с идеей цикличного производства. В коллекции Gucci Off The Grid, разработанной для людей, заботящихся об окружающей среде, используются переработанные, органические, устойчивые материалы и материалы из биологического сырья. Регенерированный нейлон, изготовленный с использованием переработанных нитей и отделочных материалов, украшен орнаментом GG на черном фоне.",
+      "price": 1200,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1596213903/631216_ZAEBN_1000_001_100_0000_Light--Gucci-Off-The-Grid.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1590165906/631216_ZAEBN_1000_004_100_0000_Light--Gucci-Off-The-Grid.jpg",
+      "id": 9
+    },
+    {
+      "brand": "gucci",
+      "model": "Водонепроницаемая куртка с калейдоскопическим узором GG",
+      "description": "В коллекции Gucci Aria была представлена психоделическая интерпретация орнамента GG: калейдоскопический узор, навеянный художественным движением 1960-х и 1970-х годов. Новый узор украшает образы в уличном стиле и оригинальным образом дополняется элементами из мира верховой езды.",
+      "price": 1200,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1639136733/673609_ZAH4C_1128_001_100_0000_Light--GG.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1639136738/673609_ZAH4C_1128_002_100_0000_Light--GG.jpg",
+      "id": 10
+    },
+    {
+      "brand": "gucci",
+      "model": "Пиджак из текстиля Jumbo GG",
+      "description": "Логотипы с узнаваемыми эмблемами бренда украшают модели оригинальным и неожиданным образом. За каждым из них стоят традиции и ценности Дома, благодаря чему предметы гардероба, украшенные логотипами, никогда не потеряют своей актуальности. В каждой коллекции появляются новые интерпретации логотипов как отражение идеи постоянных перемен и экспериментов. В коллекции Aria орнамент Jumbo GG — новая крупная версия исторической монограммы — украшает серию предметов одежды и аксессуаров.",
+      "price": 2000,
+      "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1635376508/680812_Z8AVS_2580_001_100_0000_Light--JumboGG.jpg",
+      "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1635376512/680812_Z8AVS_2580_002_100_0000_Light--JumboGG.jpg",
+      "id": 11
+    }
+  ],
+  "brands": [
+    {
+      "brand": "GUCCI",
+      "logo": "https://www.pacificplace.com.hk/-/media/Images/PacificPlace2/Shops/Logo/gucci-logo.ashx?rev=1bc9d678b3bb4535a7c6c7ba622a4c43",
+      "id": 21
+    },
+    {
+      "brand": "GIORGIO ARMANI",
+      "description": "CMC",
+      "logo": "https://seeklogo.com/images/G/giorgio-armani-logo-34209EE645-seeklogo.com.png",
+      "id": 2
+    },
+    {
+      "brand": "Juicy Couture",
+      "logo": "https://i.pinimg.com/originals/26/d9/24/26d924c607e1c65d0621af422ba8441f.jpg",
+      "id": 3
+    },
+    {
+      "brand": "Michael Kors",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Michael_Kors_%28brand%29_logo.svg/1280px-Michael_Kors_%28brand%29_logo.svg.png",
+      "id": 4
+    },
+    {
+      "brand": "BOSS",
+      "logo": "https://lh3.googleusercontent.com/proxy/X4Yn9XM-krvEPoMZyttWxs2HHFfIP_uXcsbnY49fdttX-aFol2g06tkU-EPmuUgjiyeObicQtiFvAamqz2J9Oga-4RCswa0ZrxXsqFk-jF_B-HuSmIIfFEjweckllA",
+      "id": 5
+    },
+    {
+      "brand": "Tommy_Hilfiger",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tommy_Hilfiger_Logo.png/2560px-Tommy_Hilfiger_Logo.png",
+      "id": 6
+    },
+    {
+      "brand": "Moschino",
+      "logo": "https://thumbs.dreamstime.com/b/moschino-logo-moschino-logo-fashion-style-clothes-luxury-perfume-milan-paris-newyork-151674976.jpg",
+      "id": 7
+    },
+    {
+      "brand": "Calvin Klein",
+      "logo": "https://thumbs.dreamstime.com/b/vector-logos-collection-most-famous-fashion-brands-world-format-available-illustrator-ai-calvin-klein-logo-127027717.jpg",
+      "id": 8
+    },
+    {
+      "brand": "Roberto Cavalli",
+      "logo": "https://i.pinimg.com/originals/64/84/5e/64845e8d1e595caf2bc719a389a4c114.jpg",
+      "id": 9
+    },
+    {
+      "brand": "DKNY",
+      "logo": "https://styletopik.ru/content/images/brand/4079/card.jpeg",
+      "id": 10
+    },
+    {
+      "brand": "Adidas",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/1200px-Adidas_Logo.svg.png",
+      "id": 11
+    },
+    {
+      "brand": "Versace",
+      "logo": "https://thumbs.dreamstime.com/b/versace-logo-fashion-shoes-italy-luxury-151675107.jpg",
+      "id": 12
+    },
+    {
+      "brand": "Faith Connexion",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEX///8AAAD5+fnAwMDv7++8vLzExMTq6uri4uLIyMj8/Pypqambm5vn5+eDg4NGRkZeXl6vr69qamn09PTT09NOTk5TU1MgICAsLCwMDAvOzs4yMjJ3d3efn59AQECNjY2GhoYmJiU5OTlZWVlwcHAbGxtsbGweHh0UFBPa2toLCwhjY2OFXlbYAAAD4UlEQVR4nO3W2WKiMBiGYX5cUFSsxX2ponXUev/3N9kJHXU6x/M+JxSCSb5sNEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4P+QtbpWK7cPbp12XdbTl37Xv1Kqu7Q1taVT/wuvNxlMpvVt3h0MumkoXJf26XrqSteuvVZmrv2Ws7ZPp643fdtWqKjdiVpJbbF+L3uWsCOeC7aQz7psoC/hDdGNZzK3pSdpxxWNZuaVquvuB/YnQ3e7lbHtoFzdVTquwF6PvpGNGRCRqX3LRJhLzw3b1ryzdMMzEmm5Wny7DxK+74ZGGhK3Q5lJqMp3H7JXl8wkfLOl90bCm0gxHfVUrp25L2Q16fUmC3lP3L1sbbKlS7iyvT64Po7FdmM4cW1fU/1wb+7eXMK8klm3d9v74cl8LYX0nyecNO6XspWimVD7FeI8SWgnWK2bo6mv5aZMzfTAJzTZyyjhKm0kbC76Qq2VwtfiE25dYjV3I59wlZtaXiTsxLctuScrKf9I+G5rNJXe/aMoYScsR+sobl+kcnYdHlx1L+qE46HM1B/7kPBbzz7kLr4Wl7AtH6Gfhe3MzNbyMuF5sajncaOqGriBepbwMjMWccKt3yiJ6//c/+lmXy2jqR74OuEmmelu1gkXqiNpVMdVwui7hHWH0tXRduZD7VFTy4uEl2V19Qn7sjqd1JHh9+TDhF/2RPiKE376ebdGfvuF7IUKspNKzalPuEzSi2qgTlhVVZwwOV7l1kw4qc+TxdJ25pjkZzVBLxPG+3As8Qn4JOEpbSvlW5xwL9F3Qq9Nv5zUEOc2YUenPSWrOqE+MW+7kLAxRjrVRb6aq7Qb9kLbrE3VmY2tZfjDhFOZtbMsU/s4f5Hw0UkzlV/ur9J1yX/u3Ho1CdXeOix8woVpYVGEhPH86Z11ViOyyeOEqT1WEj2ig5BQbcpq+8OEJ/fewR75/5BQ/dRu3rU9AnrubFV7rxclLPW3LEqoeiqPT5qBOWVmatKjhOrp2IzgztWS2etQ5GcJb/ZrqztyzZ8nPD1KqKbnvJ/s5uKWa19ktt+rLe12jk2omvjyCa+ulpDQ0d9B/XM9Qmllv6I+oRp7+Rzuz1K144Sqez9LeA8buTDZGt/Dv8yhGl/9X8nl4HdTtl2p+0//s4M7FydhDu1XJD+GhCurSs0SsN0aXU0f7uGoXs/1MtjnvjO2NjW+TxPmaf2hTdPmn1FZHhXlfzxyyrJxWORlWb8S6vKNhMZcQRrYm/C79FtbadzK91oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4D/wG+KkMSnHkg3YAAAAAElFTkSuQmCC",
+      "id": 13
+    },
+    {
+      "brand": "ray ban",
+      "logo": "data:image/png;base64,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",
+      "id": 14
+    },
+    {
+      "brand": "svarovski",
+      "logo": "https://www.logowik.com/content/uploads/images/swarovski-2021-new2289.jpg",
+      "id": 15
+    },
+    {
+      "brand": "dior",
+      "logo": "https://logos-world.net/wp-content/uploads/2021/08/Christian-Dior-Logo-2018-present.png",
+      "id": 16
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/12/Dolce-Gabbana-Logo.png",
+      "id": 17
+    },
+    {
+      "brand": "Givenchy",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/11/Givenchy-Logo.png",
+      "id": 18
+    },
+    {
+      "brand": "The North Face",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/11/The-North-Face-Logo.png",
+      "id": 19
+    },
+    {
+      "brand": "Vans",
+      "logo": "https://wallpaperaccess.com/full/889590.jpg",
+      "id": 20
+    }
+  ]
+}

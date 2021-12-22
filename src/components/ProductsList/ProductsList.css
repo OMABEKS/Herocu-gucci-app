@@ -1,0 +1,14 @@
+.products-search {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.inp-btn2{
+    width: 400px;
+    border: 4px transparent  black;
+    margin-bottom: 50px;   
+    margin-left: 40%;
+    text-align: center;   
+}
+

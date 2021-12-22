@@ -1,0 +1,52 @@
+
+nav {
+  height: 10vh;
+  background-color: white;
+  background: rgba(0,0,0,0.4);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 5vw;
+  align-items: center;
+  position:sticky;
+   top: 0;
+  z-index: 999; 
+}
+
+.sign-btn {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  color: #4a4a4a;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.header {
+  display: flex;
+  justify-content:flex-end;
+  width: 90%;
+  padding-right: 5%;
+  margin: 20px auto;
+  
+}
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.navbar__item {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  margin: 5px 15px;
+  color: black
+}
+.navbar__item-active {
+  margin: 5px 15px;
+  font-size: 20px;
+  border-bottom: 1px solid grey;
+  color: green;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

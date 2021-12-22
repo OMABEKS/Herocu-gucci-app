@@ -1,0 +1,21 @@
+.img {
+    display: flex;
+    margin: 20px 30px;
+    justify-content: space-between;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    font-size: 30px;
+    letter-spacing: 4px;
+    border-bottom: 2px solid black;    
+}
+
+.cards {
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
