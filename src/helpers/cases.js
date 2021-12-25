@@ -5,3 +5,4 @@ export const CASE_GET_BRANDS = 'GET_BRANDS';
 
 export const CASE_GET_CART = "GET_CART"
 export const CASE_GET_FAV = 'GET_FAV'
+export const CASE_GET_COMMENTS = "GET_COMMENTS"

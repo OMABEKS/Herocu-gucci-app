@@ -14,9 +14,10 @@ import Cart from "./components/Cart/Cart";
 import Fav from "./components/Favourites/Fav";
 import Checkout from "./components/CreditCart/Checkout";
 import CreditCart from "./components/CreditCart/CreditCart";
-import AddComment from "./components/Comments/AddComment";
 import Watches from "./components/Watches/Watches";
 import Show from "./components/Show/Show";
+import App2 from "./components/Comment2/App2";
+import Comments from "./components/Comments/Comments";
 
 const Routing = () => {
   let PUBLIC_ROUTES = [
@@ -68,8 +69,8 @@ const Routing = () => {
 
     },
     {
-      link:"/addComment",
-      element:<AddComment/>,
+      link:"/app2",
+      element:<App2/>,
       id:10
 
     },
@@ -80,10 +81,15 @@ const Routing = () => {
     },
     {
       link:"/show",
-      element:<Show/>
+      element:<Show/>,
+      id:12
 
+    },
+    {
+      link:"/comments",
+      element:<Comments/>
     }
-
+                  
   ];
   const ADMIN_ROUTES = [
     {

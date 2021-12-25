@@ -3,13 +3,14 @@
   min-height: 90vh;
   background: #e9e9e9;
   display: flex;
+  background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/27/3/NTon2i.png);
 }
 
 .login-container {
   padding: 60px;
   margin: auto;
-  min-height: 400px;
-  min-width: 370px;
+  min-height: 500px;
+  min-width: 470px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -51,7 +52,9 @@
 .auth-text {
   margin: 14px 0 0 0;
   text-align: right;
+  color: #fff;
   /* cursor: pointer; */
+  
 }
 
 .auth-span {
@@ -60,4 +63,8 @@
   cursor: pointer;
   margin-left: 5px;
   transition: all 400ms ease-in-out;
+}
+
+.body-login{
+  background-image: url(https://mcdn.wallpapersafari.com/medium/27/3/NTon2i.png);
 }

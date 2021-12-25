@@ -25,7 +25,7 @@
       "price": 650,
       "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1629300609/676466_XJDXH_2270_001_100_0000_Light--Gucci100-GG.jpg",
       "image2": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1629300609/676466_XJDXH_2270_002_100_0000_Light--Gucci100-GG.jpg",
-      "content":"",
+      "content": "",
       "id": 3
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "brand": "gucci",
-      "model": "Пиджак из текстиля Jumbo GG",
+      "model": "Пиджак из текстиля Jumbo",
       "description": "Логотипы с узнаваемыми эмблемами бренда украшают модели оригинальным и неожиданным образом. За каждым из них стоят традиции и ценности Дома, благодаря чему предметы гардероба, украшенные логотипами, никогда не потеряют своей актуальности. В каждой коллекции появляются новые интерпретации логотипов как отражение идеи постоянных перемен и экспериментов. В коллекции Aria орнамент Jumbo GG — новая крупная версия исторической монограммы — украшает серию предметов одежды и аксессуаров.",
       "price": 2000,
       "image1": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1635376508/680812_Z8AVS_2580_001_100_0000_Light--JumboGG.jpg",
@@ -122,11 +122,6 @@
       "brand": "Michael Kors",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Michael_Kors_%28brand%29_logo.svg/1280px-Michael_Kors_%28brand%29_logo.svg.png",
       "id": 4
-    },
-    {
-      "brand": "BOSS",
-      "logo": "https://lh3.googleusercontent.com/proxy/X4Yn9XM-krvEPoMZyttWxs2HHFfIP_uXcsbnY49fdttX-aFol2g06tkU-EPmuUgjiyeObicQtiFvAamqz2J9Oga-4RCswa0ZrxXsqFk-jF_B-HuSmIIfFEjweckllA",
-      "id": 5
     },
     {
       "brand": "Tommy_Hilfiger",
@@ -202,6 +197,42 @@
       "brand": "Vans",
       "logo": "https://wallpaperaccess.com/full/889590.jpg",
       "id": 20
+    },
+    {
+      "brand": "Nike",
+      "logo": "https://www.vhv.rs/dpng/d/405-4052243_nike-logo-png-nike-logo-design-transparent-png.png",
+      "id": 22
+    }
+  ],
+  "comments": [
+    {
+      "newComment": {
+        "word": "hhjjjj",
+        "createdAtMs": 1640356655948,
+        "tanksId": 2,
+        "email": "makers23@gmail.com"
+      },
+      "tankId": 2,
+      "id": 1
+    },
+    {
+      "newComment": {
+        "word": "привет",
+        "createdAtMs": 1640465565825,
+        "tanksId": 1
+      },
+      "tankId": 1,
+      "id": 3
+    },
+    {
+      "newComment": {
+        "word": "хороши привет",
+        "createdAtMs": 1640466190202,
+        "tanksId": 11,
+        "email": "makers23@gmail.com"
+      },
+      "tankId": 11,
+      "id": 4
     }
   ]
 }

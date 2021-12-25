@@ -71,7 +71,7 @@ export default class App extends React.Component {
 //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 function success() {
     Modal.success({
-      content: 'СПАСИБО ЗА ПОКУПКУ',
+      content: 'ОПЛАТА ПРОШЛА УСПЕШНО , СПАСИБО ЗА ПОКУПКУ',
     });
   }
     return ( 

@@ -1,7 +1,6 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect } from "react";
 import { Select , Slider} from "antd";
 import { brandsContext } from "../../contexts/brandsContext";
-import { useEffect } from "react/cjs/react.development";
 
 const Filters = ({ brand, setBrand  , price , setPrice}) => {
   const { getBrands, brands } = useContext(brandsContext);
@@ -26,11 +25,12 @@ const Filters = ({ brand, setBrand  , price , setPrice}) => {
       </Select>
 
       <Slider
+      style={{width:"1000px"}}
       value={price}
       onChange={(e) => setPrice(e)}
-      range defaultValue={[1, 1000000]}
+      range defaultValue={[1, 1000]}
       min={0}
-      max={1000000}
+      max={1000}
       step={100}
       />
     </div>

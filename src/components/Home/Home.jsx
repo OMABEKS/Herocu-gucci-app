@@ -7,14 +7,12 @@ import video from "../../assets/videos/gucci.mp4"
 const { Meta } = Card;
 const Home = () => {
     return (
-        <div>
+        <div className='body'>
             <a><img style={{width: '100%' , height:"50%"}} src="https://cdn.wallpapersafari.com/33/52/r7OQmH.jpg" alt="" /></a>
 
-            <div className='img'>
-           
-            </div>
+            
             <div className="link">
-                <a href='' style={{display: 'flex', justifyContent: 'center', color: 'black'}}>НОВИНКИ</a>
+                <a href='' style={{display: 'flex', justifyContent: 'center', color: 'white'}}>НОВИНКИ</a>
             </div>
             <div className='cards'>
             <Card

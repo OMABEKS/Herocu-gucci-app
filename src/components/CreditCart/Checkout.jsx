@@ -39,6 +39,8 @@ const CreditCart = () => {
         
         name={['user', ' Полное имя']}
         label="Полное имя"
+        id="name"
+        validation={{isValid:(values) => values !=="Omurbek"}}
         rules={[
           {
             required: true,
@@ -59,7 +61,7 @@ const CreditCart = () => {
         <Input />
       </Form.Item>
       <Form.Item
-        name={['user', 'age']}
+        name={['user', 'adress']}
         label="Адрес"
         rules={[
           {
@@ -71,10 +73,10 @@ const CreditCart = () => {
       >
         <InputNumber />
       </Form.Item>
-      <Form.Item name={['user', 'website']} label="Город">
+      <Form.Item name={['user', 'city']} label="Город">
         <Input />
       </Form.Item>
-      <Form.Item name={['user', 'introduction']} label="Cтрана">
+      <Form.Item name={['user', 'country']} label="Cтрана">
         <Input />
       </Form.Item>
       <Form.Item wrapperCol={{ ...layout.wrapperCol, offset: 8 }}>

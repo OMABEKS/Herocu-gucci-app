@@ -1,8 +1,11 @@
+@media screen and (max-width: 1800px){
 
-nav {
-  height: 10vh;
+
+.nav-container {
+  height: 80%;
+  width: 100%;
   background-color: white;
-  background: rgba(0,0,0,0.4);
+  background: black;
   color: white;
   display: flex;
   justify-content: space-around;
@@ -11,8 +14,12 @@ nav {
   position:sticky;
    top: 0;
   z-index: 999; 
+  overflow:hidden;
+  margin-bottom: 50px;
 }
-
+}
+.Navbar{
+  background-color: black;}
 .sign-btn {
   background-color: rgb(255, 255, 255);
   border: none;
@@ -22,12 +29,17 @@ nav {
   border-radius: 10px;
   font-size: 18px;
 }
+.sign-btn:hover{
+  background-color: orange;
+  transition: 0.5s;
+}
 .header {
   display: flex;
   justify-content:flex-end;
   width: 90%;
   padding-right: 5%;
   margin: 20px auto;
+  margin-right: 50px;
   
 }
 .navbar {
@@ -41,12 +53,12 @@ nav {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 20px;
   margin: 5px 15px;
-  color: black
+  color: white;
 }
 .navbar__item-active {
   margin: 5px 15px;
   font-size: 20px;
   border-bottom: 1px solid grey;
-  color: green;
+  color: orange;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }

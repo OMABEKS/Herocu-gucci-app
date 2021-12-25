@@ -1,17 +1,20 @@
-import React, { useContext, useEffect } from "react";
-import { Link, useLocation } from "react-router-dom";
+import  React ,{useContext, useEffect} from 'react';
+import AppBar from '@mui/material/AppBar';
+import Box from '@mui/material/Box';
+import Toolbar from '@mui/material/Toolbar';
+import Typography from '@mui/material/Typography';
 
-import { Badge } from "antd";
-import { ShoppingCartOutlined, StarOutlined } from "@ant-design/icons";
+import { Link, useLocation } from "react-router-dom";
 
 import { useAuth } from "../../contexts/authContext";
 import { cartContext } from "../../contexts/CartContext"
 import { favContext } from "../../contexts/favContext";
-
 import "./Header.css";
 
-const Header = () => {
+import { Badge } from "antd";
+import { ShoppingCartOutlined, StarOutlined } from "@ant-design/icons";
 
+export default function ButtonAppBar() {
   const location = useLocation();
   const {
     handleLogout,
@@ -42,7 +45,7 @@ const Header = () => {
       id: 2,
     },
     {
-      title: "ЧАСЫ",
+      title: "ЧАСЫ ",
       link: "/watches",
       id: 4,
     },
@@ -52,13 +55,17 @@ const Header = () => {
       id: 5,
     },
   ];
+
   return (
-    <>
-      <nav>
-      <Link to="/">
+    <div className='nav-container'>
+    <Box sx={{ flexGrow: 5}}>
+      
+      <AppBar position="static">
+        <Toolbar style={{background:"black", height:"80px", padding:"0 7 vw" }}>
+        <Link to="/">
           <img
             width="200px"
-            src="https://www.pacificplace.com.hk/-/media/Images/PacificPlace2/Shops/Logo/gucci-logo.ashx?rev=1bc9d678b3bb4535a7c6c7ba622a4c43"
+            src="https://wallpaper.dog/large/5471817.jpg"
             alt=""
           />
         </Link>
@@ -88,11 +95,31 @@ const Header = () => {
           </Link>
         ) : null}
         
-        
-      </nav>
-     
-      <div className="navbar">
-      <div>
+          
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+           
+          </Typography>
+          <div className="header">
+          <div style={{marginRight:"30px"}}>
+        <Link to="/cart">
+            <Badge count={+cartLength}>
+              <ShoppingCartOutlined
+                style={{ fontSize: "30px", cursor: "pointer", color:"white" }}
+              />
+            </Badge>
+          </Link>
+          </div>
+        <div>
+        <Link to="/fav">
+            <Badge count={+favLength}>
+              <StarOutlined
+                style={{ fontSize: "30px", cursor: "pointer", color: "white" }}
+              />
+            </Badge>
+          </Link>
+          </div>
+          </div>
+          <div>
           {email ? (
             <Link to="/auth">
               <button className="sign-btn" onClick={handleLogout}>
@@ -107,32 +134,10 @@ const Header = () => {
             
             </Link>
           )}
-        </div>
-       
-      </div>
-      
-      <div className="header">
-        <div style={{marginRight:"30px"}}>
-        <Link to="/cart">
-            <Badge count={+cartLength}>
-              <ShoppingCartOutlined
-                style={{ fontSize: "30px", cursor: "pointer" }}
-              />
-            </Badge>
-          </Link>
           </div>
-        <div>
-        <Link to="/fav">
-            <Badge count={+favLength}>
-              <StarOutlined
-                style={{ fontSize: "30px", cursor: "pointer", color: "black" }}
-              />
-            </Badge>
-          </Link>
-          </div>
-      </div>
-    </>
+        </Toolbar>
+      </AppBar>
+    </Box>
+    </div>
   );
-};
-
-export default Header;
+}

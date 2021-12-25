@@ -19,7 +19,7 @@ const Login = () => {
     <>
       <section className="login">
         <div className="login-container">
-          <label className="auth-label">Email</label>
+          <label style={{color:"white"}} className="auth-label">Email</label>
           <input
             className="auth-input"
             type="text"
@@ -32,7 +32,7 @@ const Login = () => {
           />
           <p className="error-msg">{emailError}</p>
 
-          <label className="auth-label">Password</label>
+          <label style={{color:"white"}} className="auth-label">Password</label>
           <input
             className="auth-input"
             type="password"
@@ -63,7 +63,7 @@ const Login = () => {
               </>
             ) : (
               <>
-                <button className="auth-btn" onClick={handleSignUp}>
+                <button style={{backgroundColor:"green"}} className="auth-btn" onClick={handleSignUp}>
                   Sign up
                 </button>
                 <p className="auth-text">

@@ -52,7 +52,7 @@ const ProductCart = ({ item }) => {
       ]}
     >
       <Card.Meta
-        title={<h3 style={{color: 'black'}}>{item.brand}</h3>}
+        title={<h3 style={{color: 'white'}}>{item.brand}</h3>}
         description={
           <>
             <h3 style={{color: 'black'}}>{item.model}</h3>

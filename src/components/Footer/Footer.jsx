@@ -1,21 +1,30 @@
 import React from 'react';
 import './Footer.css';
 import { Link } from 'react-router-dom';
+import { Modal } from 'antd';
 import {InstagramOutlined , YoutubeOutlined , FacebookOutlined ,TwitterOutlined} from '@ant-design/icons';
 
 function Footer() {
+
+  function success() {
+    Modal.success({
+      content: 'FBDJFJDDJJ',
+      input:"jsdjjafkj"
+      
+      
+    });
+  }
     return (
       <div className='footer-container'>
          <div className="btn-top">
               
                 <a onClick={() =>  window.scrollTo({top: 0, behavior: 'smooth'})
-}>BACK TO TOPE</a>
+}>ВВЕРХ</a>
               
               </div>
       
         
         <div class='footer-links'>
-          <div className='footer-link-wrapper'>
             <div className='footer-link-items'>
                  <h2 style={{color:'#999'}}>ЭКСКЛЮЗИВНЫЕ УСЛУГИ</h2>
                  <Link to='/'>Связаться с нами</Link>
@@ -24,12 +33,13 @@ function Footer() {
             <div class='footer-link-items'>
              
               <h2>НУЖНА ПОМОЩЬ?</h2>
-              <Link to='/'>Связаться с нами</Link>
+              <a href='https://t.me/trainingshopbot'>
+              <img style={{width:"40px", heigth:"40px"}} src="https://veadug.com/wp-content/uploads/f8/ef/f8efd62ec948a114347dc5214cb498b7.png" alt="" />
+              </a>
+              <Link onClick={success} to='/'>Связаться с нами</Link>
               <Link to='/'>FAQs</Link>
               <Link to='/'>Уход за изделиями</Link>
               <Link to='/'>Карта сайта </Link>
-              
-             
             </div>
             <div class='footer-link-items'>
               <h2>НАША КОМПАНИЯ</h2>
@@ -41,8 +51,7 @@ function Footer() {
              
             </div>
            
-          </div>
-          <div className='footer-link-wrapper'>
+             
             <div class='footer-link-items'>
               <h2>ABOUT WOS US</h2>
               <Link to='/'>About Us</Link>
@@ -60,7 +69,7 @@ function Footer() {
               </div>
               
             </div>
-          </div>
+          
         </div>
         <section class='social-media'>
           <div class='social-media-wrap'>

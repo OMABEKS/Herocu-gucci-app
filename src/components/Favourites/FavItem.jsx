@@ -53,6 +53,7 @@ const FavItem = ({ item }) => {
              
             </div>
             <Button
+            style={{backgroundColor:"red", color:"white"}}
              onClick={() => deleteFromFav(item.item.id)}>
               Удалить из избранного
             </Button>
@@ -63,6 +64,7 @@ const FavItem = ({ item }) => {
                 <h3 style ={{color: "white"}}>Add product to card</h3>
               
                <Button 
+               style={{backgroundColor:"green", color:"white"}}
                onClick={() => {
                 addProductToCart(item.item.id);
                 setCheckInCart(checkItemInCart(item.id));

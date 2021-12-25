@@ -5,9 +5,10 @@ import ProductsContextProvider from "./contexts/productsContext";
 import BrandsContextProvider from "./contexts/brandsContext";
 import CartContextProvider from "./contexts/CartContext";
 import FavContextProvider from "./contexts/favContext";
+import CommentContextProvider from "./contexts/commentsContext";
 
 import Footer from "./components/Footer/Footer";
-import Header from "./components/Header/Header";
+import Header2 from "./components/Header/Header2";
 
 import Routing from "./Routing";
 
@@ -18,17 +19,20 @@ const App = () => {
   return (
     <AuthContextProvider>
       <CartContextProvider>
+      <CommentContextProvider>
       <FavContextProvider>
       <BrandsContextProvider>
         <ProductsContextProvider>
           <BrowserRouter>
-            <Header />
+            {/* <Header /> */}
+            <Header2/>
             <Routing />
             <Footer />
           </BrowserRouter>
         </ProductsContextProvider>
       </BrandsContextProvider>
       </FavContextProvider>
+      </CommentContextProvider>
       </CartContextProvider>
     </AuthContextProvider>
   );

@@ -2,6 +2,7 @@ import React from "react";
 import { List, InputNumber, Button } from "antd";
 import { useContext } from "react/cjs/react.development";
 import { cartContext } from "../../contexts/CartContext";
+import { Link } from "react-router-dom"
 
 const CartItem = ({ item }) => {
 
@@ -31,7 +32,7 @@ const CartItem = ({ item }) => {
         }
         description={
           <>
-            <div>{item.item.description}</div>
+            <div style={{fontSize:"20px"}}>{item.item.description}</div>
 
             <div
               style={{
@@ -52,7 +53,12 @@ const CartItem = ({ item }) => {
                 <h3>{"$" + item.subPrice}</h3>
               </div>
             </div>
-            <Button onClick={()=> deleteFromCart(item.item.id)}>Remove from cart</Button>
+            <Button style={{backgroundColor:"red", color:"white"}} onClick={()=> deleteFromCart(item.item.id)}>Удалить с корзины</Button>
+            <div>
+            <Link to='/checkout'>
+             <Button style={{backgroundColor:"green", color:"white"}}>Купить</Button>
+            </Link>
+            </div>
           </>
         }
       />

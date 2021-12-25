@@ -51,8 +51,8 @@ const ProductsList = () => {
   console.log(products);
   return (
     <div className="shop">
-      <div className=""> 
-        <input style={{background: 'transparent', marginTop: '1%'}} className="inp-btn2"
+      <div className="inp-btn"> 
+        <input style={{width:"%",background: 'transparent', marginTop: '1%'}} className="inp-btn2"
         type="text"
          name="search" 
          value={search}

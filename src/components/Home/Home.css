@@ -10,7 +10,7 @@
     margin-top: 5%;
     font-size: 30px;
     letter-spacing: 4px;
-    border-bottom: 2px solid black;    
+    border-bottom: 2px solid white;    
 }
 
 .cards {
@@ -19,3 +19,5 @@
     justify-content: center;
     justify-content: space-around;
 }
+
+
