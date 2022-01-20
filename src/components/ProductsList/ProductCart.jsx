@@ -43,7 +43,7 @@ const ProductCart = ({ item }) => {
             setCheckInCart(checkItemInCart(item.id));
           }}
         />,
-        <Link to={`/products/${item.id}`}>
+        <Link to={`/shop/${item.id}`}>
           <EllipsisOutlined
             style={{ color: "black", fontSize: "25px" }}
             key="ellipsis"

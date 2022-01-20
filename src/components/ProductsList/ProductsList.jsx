@@ -35,9 +35,13 @@ const ProductsList = () => {
       price_lte: price[1],
     });
   }, []);
+
+
+
   useEffect(() => {
     getProducts();
   }, [searchParams]);
+  
   useEffect(() => {
     setSearchParams({
       q: search,

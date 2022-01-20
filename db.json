@@ -233,6 +233,15 @@
       },
       "tankId": 11,
       "id": 4
+    },
+    {
+      "newComment": {
+        "word": "привет бегимай",
+        "createdAtMs": 1641309062290,
+        "tanksId": 2
+      },
+      "tankId": 2,
+      "id": 5
     }
   ]
 }
