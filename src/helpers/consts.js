@@ -1,4 +1,4 @@
-export const PRODUCTS_API = "http://localhost:8000/products";
+export const PRODUCTS_API = "https://gucci-kg.herokuapp.com/apiproducts";
 
-export const BRANDS_API = "http://localhost:8000/brands";
+export const BRANDS_API = "https://gucci-kg.herokuapp.com//apibrands";
 
